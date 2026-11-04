@@ -107,3 +107,6 @@ footer p { margin-top: .5rem; }
 footer .footer-credit { margin-top: 1.5rem; color: #ddd1cb; font-size: .8rem; }
 
 .visit-map { display: block; width: 100%; height: clamp(16rem, 42vw, 23rem); border: 1px solid var(--line); border-radius: .7rem; }
+
+.utility-phones { display: flex; flex-wrap: wrap; gap: .25rem 1rem; }
+.utility-phones a { white-space: nowrap; }
